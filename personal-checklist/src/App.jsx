@@ -73,6 +73,7 @@ function App() {
   // List of completed skills with proof links
   const proof = [
     { "Name": "Composing", "Link": "https://open.spotify.com/track/3lS6DJ9uUviFYdGnwutzG4?si=b4607737f7a047ff" },
+    { "Name": "Skip a stone 8+ times", "Link": "https://www.youtube.com/watch?v=7ZzW6jpsP9k&t=2s"}
   ];
 
   const [filter, setFilter] = useState('all');
